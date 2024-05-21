@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1, h2, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.serie{
+    color:#6a9eda;
+    font-size: medium;
+}
+
+.texto{
+   text-align: justify;
+}
+
+img{
+    width: 85%;
+}
+
+.t3, .t4, .t5, .t6{
+    color: #6a9eda;
+    font-size: medium;
+    border-left: #6a9eda solid 2px;
+}
+
+.t1, .t2{
+    font-size: large;
+}
